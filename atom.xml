@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Craig Gardner</title>
+    <subtitle type="html"></subtitle>
+    <updated>2020-12-04T09:01:30-08:00</updated>
+    <id>https://cgardner.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://cgardner.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://cgardner.github.io/atom.xml" />
+    <author>
+            <name>Craig</name>
+            <uri>https://cgardner.github.io/</uri>
+            
+                <email>craig.s.gardner@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+</feed>
